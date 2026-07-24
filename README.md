@@ -39,15 +39,9 @@
 
 <p align="left">
   <a href="https://github.com/K-Wuthichai-7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Wuthichai-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Wutthichai's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=K-Wuthichai-7&show_icons=true&theme=radical" alt="Wutthichai's GitHub Stats" />
   </a>
   <a href="https://github.com/K-Wuthichai-7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Wuthichai-7&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/K-Wuthichai-7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Wuthichai-7&theme=radical" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=K-Wuthichai-7&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
